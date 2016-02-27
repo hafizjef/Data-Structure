@@ -3,7 +3,7 @@
 This course will expose the students to data structures and algorithms. The basic concepts in __structure, class, array and pointer__
 discussed in order to understand the fundamental of data structures and algorithms. The course focuses on data structure such as; __list,
 stack, queue, tree, searching and hash while sorting, graph and heaps__ topics cover the algorithms. This also includes the algorithm
-efficiency for _run time_. Pseude code and __C++__ programming language will be used in algoritm implementation.
+efficiency for _run time_. Pseude code and __C++__ programming language will be used in algorithm implementation.
 
 | Credit | Lab | Lecture |
 |:---:|:---:|:---:|
