@@ -5,6 +5,9 @@ discussed in order to understand the fundamental of data structures and algorith
 stack, queue, tree, searching and hash while sorting, graph and heaps__ topics cover the algorithms. This also includes the algorithm
 efficiency for _run time_. Pseude code and __C++__ programming language will be used in algoritm implementation.
 
+| Credit | Lab | Lecture |
+|:---:|:---:|:---:|
+|3|2|2|
 
 ## References
 1. [Malik D. S. Data Structures Using C++. Course technology, Cengage Learning 2011][1]
