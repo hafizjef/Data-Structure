@@ -18,6 +18,7 @@ efficiency for _run time_. Pseude code and __C++__ programming language will be 
 ## Additional References
 * [Why is including __using namespace into a header__ file a bad idea in C++?][5]
 * [Difference between passing by __reference vs. passing by value__][6]
+* [What is a “const member function”?][7]
 
 
 
@@ -26,3 +27,4 @@ efficiency for _run time_. Pseude code and __C++__ programming language will be 
 [1]: http://gen.lib.rus.ec/
 [5]: http://stackoverflow.com/a/4872531
 [6]: http://stackoverflow.com/a/430958
+[7]: https://isocpp.org/wiki/faq/const-correctness#const-member-fns
