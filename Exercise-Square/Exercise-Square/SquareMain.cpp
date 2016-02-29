@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Square.h"
 using namespace std;
-void main()
+int main()
 {
 	Square box;
 	cout << "Values from constructor\n" << "Height: ";

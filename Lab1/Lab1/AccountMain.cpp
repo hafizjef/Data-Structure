@@ -3,7 +3,7 @@
 #include <iomanip>
 #include "Account.h"
 using namespace std;
-void main() {
+int main() {
 	Account acc;
 	cout << "Your account balance is : "
 		<< setw(5) << acc.getBalance() << endl;

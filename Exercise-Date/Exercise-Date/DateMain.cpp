@@ -2,7 +2,7 @@
 #include "Date.h"
 using namespace std;
 
-void main() {
+int main() {
 	Date a, b;
 	b.setDate(25, 12, 2005);
 	cout << "a " << endl;
