@@ -5,14 +5,13 @@ using namespace std;
 
 int main()
 {
-	Shape dumb;
-	dumb.setp(8);
-	dumb.printP();
+	Shape rectangle;
+	rectangle.setp(8);
+	rectangle.printP();
 
-	Polygon fuck;
-	fuck.setp(9);
-	fuck.printP();
+	Polygon triangle;
+	triangle.setp(9);
+	triangle.printP();
+	triangle.getArea();
 
-	int lol;
-	cin >> lol;
 }

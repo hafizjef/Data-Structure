@@ -6,4 +6,5 @@ class Polygon : public Shape
 public:
 	Polygon();
 	~Polygon();
+	void getArea() const;
 };
